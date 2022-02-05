@@ -1,0 +1,6 @@
+/Users/saharshaul/Downloads/SudokuSolver-old/SudokuSolver/bin/Release/SudokuSolver.exe.config
+/Users/saharshaul/Downloads/SudokuSolver-old/SudokuSolver/bin/Release/SudokuSolver.exe
+/Users/saharshaul/Downloads/SudokuSolver-old/SudokuSolver/bin/Release/SudokuSolver.pdb
+/Users/saharshaul/Downloads/SudokuSolver-old/SudokuSolver/obj/Release/SudokuSolver.csproj.CoreCompileInputs.cache
+/Users/saharshaul/Downloads/SudokuSolver-old/SudokuSolver/obj/Release/SudokuSolver.exe
+/Users/saharshaul/Downloads/SudokuSolver-old/SudokuSolver/obj/Release/SudokuSolver.pdb
